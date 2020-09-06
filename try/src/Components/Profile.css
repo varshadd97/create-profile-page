@@ -1,0 +1,86 @@
+.space {
+  margin-left: 630px;
+}
+.details {
+  width: 200px;
+  height: 200px;
+  margin-left: 650px;
+}
+
+.space1 {
+  margin-left: 620px;
+}
+.space2 {
+  margin-left: 675px;
+}
+.space3 {
+  margin-left: 675px;
+}
+.bo {
+  border: 1px soli gray;
+  outline-color: gray;
+  outline-style: solid;
+  outline-width: thin;
+  padding: 1px;
+  margin: 35px;
+}
+.ab {
+  background-color: greenyellow;
+  color: white;
+  font-size: 60px;
+  font-family: "";
+  margin-top: 0px;
+}
+.pr {
+  background-color: powderblue;
+  color: gray;
+  font-size: 40px;
+  margin: 35px;
+  border-left: 5px solid red;
+}
+.sp {
+  margin-left: 35px;
+}
+.ex {
+  background-color: greenyellow;
+  color: white;
+  font-size: 60px;
+  font-family: "";
+  margin-top: 0px;
+}
+.bo1 {
+  border-bottom-style: dotted;
+  border-color: gray;
+  padding: 15px;
+}
+.im {
+  width: 50px;
+  height: 50px;
+  padding: 10px;
+  margin-left: 24px;
+}
+.ex1 {
+  margin-left: 20px;
+  align-content: unset;
+}
+.in {
+  color: darkgray;
+  font-family: "initial";
+  margin-left: 30px;
+}
+.mn {
+  color: red;
+  margin-left: 30px;
+  font-size: 25px;
+}
+.Dp {
+  margin-left: 600px;
+  -webkit-background-composite: padding;
+  box-decoration-break: slice;
+}
+.VD {
+  margin-left: 600px;
+}
+.DD {
+  margin-left: 700px;
+}
